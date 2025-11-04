@@ -1,0 +1,21 @@
+---
+manufacturer: Barracuda
+model: XDR-BX500
+slug: barracuda-xdr-bx500
+part_number: xdr-bx500
+u_height: 1
+is_full_depth: false
+weight: 5.1
+weight_unit: lb
+comments: Baud Rate 115200/8-N-1
+console-ports:
+  - name: Console
+    type: rj-45
+power-ports:
+  - name: PSU0
+    type: other
+interfaces:
+  - name: Port1
+    type: 1000base-t
+  - name: Port2
+    type: 1000base-t
